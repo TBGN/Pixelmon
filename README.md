@@ -1,2 +1,3 @@
 # Pixelmon
-Please report any error with the mod pack. Please leave your crash reports with any issues you are having if applicable.#
+Please report any issues you  have with our current build of the mod pack here, please leave a crash report  
+Our discord: https://discord.gg/syU5F6n
